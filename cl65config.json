@@ -1,0 +1,5 @@
+{
+  "executable": "C:\\cc65\\bin\\cl65",
+  "input": "batcave.s",
+  "params": "-v -t nes -o batcave.nes -Wl --dbgfile,batcave.dbg"
+}
